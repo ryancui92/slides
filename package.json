@@ -1,0 +1,12 @@
+{
+  "name": "ryan-slides",
+  "private": true,
+  "scripts": {
+    "build": "sh build.sh",
+    "dev": "slidev --open"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.37.1",
+    "@slidev/theme-default": "*"
+  }
+}
